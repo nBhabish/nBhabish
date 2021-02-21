@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Bhabishya 
+
+## (pronounced as: Va-vish-yuh)
+## I’m an undergraduate at the University of Nebraska-Lincoln
+
 
 <!--
 **nBhabish/nBhabish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
