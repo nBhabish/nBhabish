@@ -1,7 +1,6 @@
-### Hi, I'm Bhabishya 
+### Hi, I'm Bhabishya (pronounced as: Va-vish-yuh)
 
-#### (pronounced as: Va-vish-yuh)
-#### I’m an undergraduate at the University of Nebraska-Lincoln
+#### I’m an undergraduate at the University of Nebraska-Lincoln. I am interested in Data Analysis, Text Analysis, Machine Learning, and Statistics. 
 
 
 <!--
