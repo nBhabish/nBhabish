@@ -1,7 +1,7 @@
 ### Hi, I'm Bhabishya 
 
-## (pronounced as: Va-vish-yuh)
-## I’m an undergraduate at the University of Nebraska-Lincoln
+#### (pronounced as: Va-vish-yuh)
+#### I’m an undergraduate at the University of Nebraska-Lincoln
 
 
 <!--
